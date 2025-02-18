@@ -1,5 +1,8 @@
 {
-  "fonts": {
+  "spec": 1,
+  "name": "JetBrainsMono",
+  "previewText": "Placeholder",
+  "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
         "ggsans-Bold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Bold.ttf",
         "ggsans-BoldItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-BoldItalic.ttf",
